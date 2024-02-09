@@ -1,2 +1,4 @@
 # NLW-Expert
-Trilha html - CSS - JS
+
+Trilha
+html - CSS - JS -Github
